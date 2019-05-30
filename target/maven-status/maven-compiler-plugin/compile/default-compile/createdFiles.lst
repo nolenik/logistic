@@ -1,0 +1,16 @@
+com\uit\logistic\Human\HumanRepository.class
+com\uit\logistic\Car\CarRepository.class
+com\uit\logistic\Human\HumanController.class
+com\uit\logistic\Car\Car.class
+com\uit\logistic\Crew\CrewController.class
+com\uit\logistic\Crew\CrewRepository.class
+com\uit\logistic\Car\CarController.class
+com\uit\logistic\Exception\CustomExceptionHandler.class
+com\uit\logistic\Client\ClientController.class
+com\uit\logistic\Client\Client.class
+com\uit\logistic\Client\ClientRepository.class
+com\uit\logistic\Exception\ObjectNotFoundException.class
+com\uit\logistic\Human\Human.class
+com\uit\logistic\Crew\Crew.class
+com\uit\logistic\Exception\ExceptionResponse.class
+com\uit\logistic\LogisticApplication.class
